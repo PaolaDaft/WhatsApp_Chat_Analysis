@@ -21,4 +21,11 @@ Para hacer tu propio análisis de cualquiera de tus chat haz los siguientes paso
   </ol>
 </details>
 
-
+<details>
+  <summary>🗂️ Te dejo la documentación de las librerías usadas en el proyecto. </summary>
+  <lu>
+    <li> <a href="https://docs.python.org/es/3/library/re.html#regular-expression-objects)
+  [This link](http://example.net/">Re, para expresiones regulares</a>
+    <li> <a href="https://carpedm20.github.io/emoji/docs/">Emoji</a> 
+  </lu>
+</details>
